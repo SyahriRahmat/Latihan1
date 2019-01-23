@@ -25,7 +25,7 @@ server/reopsitory server pada local repositry (working directory)
 # Cara Membuat Repository Online <h2>
 * Lakukan Login ke [Github](https://github.com)
 * Buatlah Directory Dengan Cara Klik `Create A New Repository`
-![Github Logo](https://github.com/SyahriRahmat/Latihan1/blob/master/2.png) <h2> 
+![Github Logo](https://github.com/SyahriRahmat/Latihan1/blob/master/2.png) <h6> 
 
 
 # Cara Membuat Repository Local <h2>
@@ -34,8 +34,10 @@ server/reopsitory server pada local repositry (working directory)
 * Masuk ke directory yang sudah dibuat sebelumnya, `/dev/sda/Latihan1`
 * Lakukan git init pada directory tersebut
 * Buat File dengan nama README.md dengan cara :
-![Github Logo](https://github.com/SyahriRahmat/Latihan1/blob/master/1.png) <h2>
+![Github Logo](https://github.com/SyahriRahmat/Latihan1/blob/master/1.png) <h6>
 * Lakukan commit dengan cara, `git commit -m "first commit"`
 * lakukan remote dengan cara, `git remote add origin [url]`
 * Lakukan push dengan cara, `git push -u origin master`
-
+* Masukkan Username dan Password Github
+* Lihat Hasilnya di Github dengan cara _Refresh (Muat Ulang) halaman Github_
+![Github Logo](https://github.com/SyahriRahmat/Latihan1/blob/master/4.png) <h6>
